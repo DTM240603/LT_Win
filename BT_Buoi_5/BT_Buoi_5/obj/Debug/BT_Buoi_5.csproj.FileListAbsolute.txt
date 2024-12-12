@@ -1,0 +1,10 @@
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\bin\Debug\BT_Buoi_5.exe.config
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\bin\Debug\BT_Buoi_5.exe
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\bin\Debug\BT_Buoi_5.pdb
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\obj\Debug\BT_Buoi_5.csproj.AssemblyReference.cache
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\obj\Debug\BT_Buoi_5.Form1.resources
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\obj\Debug\BT_Buoi_5.Properties.Resources.resources
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\obj\Debug\BT_Buoi_5.csproj.GenerateResource.cache
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\obj\Debug\BT_Buoi_5.csproj.CoreCompileInputs.cache
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\obj\Debug\BT_Buoi_5.exe
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_5\BT_Buoi_5\obj\Debug\BT_Buoi_5.pdb
