@@ -1,0 +1,15 @@
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\bin\Debug\BT_Buoi_6.exe.config
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\bin\Debug\BT_Buoi_6.exe
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\bin\Debug\BT_Buoi_6.pdb
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.csproj.AssemblyReference.cache
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.Form1.resources
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.Properties.Resources.resources
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.csproj.GenerateResource.cache
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.csproj.CoreCompileInputs.cache
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.exe
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.pdb
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\bin\Debug\EntityFramework.dll
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\bin\Debug\EntityFramework.SqlServer.dll
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\bin\Debug\EntityFramework.xml
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\bin\Debug\EntityFramework.SqlServer.xml
+F:\Hutech\Nam_3\LT_Win\LT_Win\BT_Buoi_6\BT_Buoi_6\obj\Debug\BT_Buoi_6.csproj.Up2Date
